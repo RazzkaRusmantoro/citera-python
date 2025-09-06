@@ -1,0 +1,263 @@
+[
+  {
+    "original_sentence": "Logistics and transport firms like Emirates Post normally face operational challenges during fluctuating periods of demand, particularly in managing delivery rushes caused by seasonal peaks, holidays, or special events.",
+    "cited_sentence": "Logistics and transport firms like Emirates Post normally face operational challenges during fluctuating periods of demand, particularly in managing delivery rushes caused by seasonal peaks, holidays, or special events (Kim, 2021).",
+    "paragraph_index": 17,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5718057155609131,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "This report suggests an artificial intelligence-driven solution, named PostalFlow, that would help Emirates Post better predict and manage such rushes.",
+    "cited_sentence": "This report suggests an artificial intelligence-driven solution, named PostalFlow, that would help Emirates Post better predict and manage such rushes (Kim, 2021).",
+    "paragraph_index": 17,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5260440111160278,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "Based on historical parcel volume data, a machine learning pipeline was trained that classifies delivery demand into four levels of surge: No Surge, Mild Surge, Low Surge, and High Surge.",
+    "cited_sentence": "Based on historical parcel volume data, a machine learning pipeline was trained that classifies delivery demand into four levels of surge: No Surge, Mild Surge, Low Surge, and High Surge (Kim, 2021).",
+    "paragraph_index": 17,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.6028395891189575,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "The model employs an ensemble of several different classifiers optimized through cross-validation and grid or randomized search and supplemented with sample weighting customized for class leveling of distributions.",
+    "cited_sentence": "The model employs an ensemble of several different classifiers optimized through cross-validation and grid or randomized search and supplemented with sample weighting customized for class leveling of distributions (Dinápolis, 2020).",
+    "paragraph_index": 17,
+    "citation": "(Dinápolis, 2020)",
+    "confidence": 0.5022198557853699,
+    "paper_id": "23c49281dc92c6037feff558900a0ed6f2773ca2",
+    "paper_title": "Development and evaluation of an ensemble forecast/hindcast system for storm surges in the Río de la Plata Estuary"
+  },
+  {
+    "original_sentence": "The resulting best-performing model is deployed through a stand-alone predictor with the capability to generate surge classifications for new delivery entries in support of resource allocation.",
+    "cited_sentence": "The resulting best-performing model is deployed through a stand-alone predictor with the capability to generate surge classifications for new delivery entries in support of resource allocation (Dinápolis, 2023).",
+    "paragraph_index": 17,
+    "citation": "(Dinápolis, 2023)",
+    "confidence": 0.5330443382263184,
+    "paper_id": "7f0a9eb8ece34ba2e1be000c2b9421c6402253be",
+    "paper_title": "Improving the short‑range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation"
+  },
+  {
+    "original_sentence": "In addition to classification, the system implements time-series forecasting through an in-house forecasting module that leverages historical trends in data to predict future parcel volume.",
+    "cited_sentence": "In addition to classification, the system implements time-series forecasting through an in-house forecasting module that leverages historical trends in data to predict future parcel volume (Poljičak, 2024).",
+    "paragraph_index": 17,
+    "citation": "(Poljičak, 2024)",
+    "confidence": 0.7030339241027832,
+    "paper_id": "2e340a6d6171fcad6563e47774277275de8631b7",
+    "paper_title": "Determinants of the trend in parcel volumes in Croatia"
+  },
+  {
+    "original_sentence": "This forward-looking characteristic empowers operational managers to timely adjust logistics plans, such as fleets and personnel, to guarantee delivery effectiveness and customer satisfaction.",
+    "cited_sentence": "This forward-looking characteristic empowers operational managers to timely adjust logistics plans, such as fleets and personnel, to guarantee delivery effectiveness and customer satisfaction (Wang, 2023).",
+    "paragraph_index": 18,
+    "citation": "(Wang, 2023)",
+    "confidence": 0.5385159850120544,
+    "paper_id": "f410d35cece2e6b3b966b39fc035b2f7863dcd2d",
+    "paper_title": "Emergency Parcel Dispatching and Structure Optimization of E-Commerce Logistics Network Based on CCNSGA-II"
+  },
+  {
+    "original_sentence": "The coupling of demand grouping and parcel volume forecasting turns reactive decision-making predictive and automated and as a result, PostalFlow is a smart, scalable solution that identifies the core issues of surge management and positions Emirates Post at the leading edge of AI-capable logistics.",
+    "cited_sentence": "The coupling of demand grouping and parcel volume forecasting turns reactive decision-making predictive and automated and as a result, PostalFlow is a smart, scalable solution that identifies the core issues of surge management and positions Emirates Post at the leading edge of AI-capable logistics (Kim, 2021).",
+    "paragraph_index": 18,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.6772878766059875,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "The motivation to develop PostalFlow stems from the growing complexity of last-mile logistics and Emirates Post's need to be more responsive to fluctuating demand.",
+    "cited_sentence": "The motivation to develop PostalFlow stems from the growing complexity of last-mile logistics and Emirates Post's need to be more responsive to fluctuating demand (Kim, 2021).",
+    "paragraph_index": 20,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.6313958168029785,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "Erratic weekend parcel volumes, public holidays, off-season seasonal advertising campaigns, and unexpected socio-economic events usually lead to idle fleets or mired delivery operations.",
+    "cited_sentence": "Erratic weekend parcel volumes, public holidays, off-season seasonal advertising campaigns, and unexpected socio-economic events usually lead to idle fleets or mired delivery operations (Poljičak, 2024).",
+    "paragraph_index": 20,
+    "citation": "(Poljičak, 2024)",
+    "confidence": 0.5222077965736389,
+    "paper_id": "2e340a6d6171fcad6563e47774277275de8631b7",
+    "paper_title": "Determinants of the trend in parcel volumes in Croatia"
+  },
+  {
+    "original_sentence": "To address this gap, PostalFlow was conceived as a forecast decision support system using machine learning to diagnose delivery surges and forecast parcel trends.",
+    "cited_sentence": "To address this gap, PostalFlow was conceived as a forecast decision support system using machine learning to diagnose delivery surges and forecast parcel trends (Kim, 2021).",
+    "paragraph_index": 21,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.7284641265869141,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "With this method, decision-makers can shift from reactive planning to proactive logistics command, enhancing both day-to-day performance and long-term strategic maneuverability.",
+    "cited_sentence": "With this method, decision-makers can shift from reactive planning to proactive logistics command, enhancing both day-to-day performance and long-term strategic maneuverability (Wang, 2023).",
+    "paragraph_index": 21,
+    "citation": "(Wang, 2023)",
+    "confidence": 0.5040847063064575,
+    "paper_id": "f410d35cece2e6b3b966b39fc035b2f7863dcd2d",
+    "paper_title": "Emergency Parcel Dispatching and Structure Optimization of E-Commerce Logistics Network Based on CCNSGA-II"
+  },
+  {
+    "original_sentence": "Furthermore, with accurate detection of peak demand hours, PostalFlow enables Emirates Post to apply a surge multiplier, a variable pricing mechanism that adjusts delivery prices for a short time during peak hours.",
+    "cited_sentence": "Furthermore, with accurate detection of peak demand hours, PostalFlow enables Emirates Post to apply a surge multiplier, a variable pricing mechanism that adjusts delivery prices for a short time during peak hours (Kim, 2021).",
+    "paragraph_index": 22,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5333552360534668,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "Lastly, this method ensures operational sustainability without jeopardizing service reliability and customer satisfaction when there is high pressure in delivery.",
+    "cited_sentence": "Lastly, this method ensures operational sustainability without jeopardizing service reliability and customer satisfaction when there is high pressure in delivery (Ray, 2020).",
+    "paragraph_index": 22,
+    "citation": "(Ray, 2020)",
+    "confidence": 0.5010206699371338,
+    "paper_id": "88cb58d193b3db1c503d278b85b5c77713fc1b1e",
+    "paper_title": "Managing supply chain aspects of the COVID-19 pandemic in India"
+  },
+  {
+    "original_sentence": "PostalFlow is trained on a tabular dataset with columns date, year, month, day, parcel_count, day_of_week, is_weekend, is_holiday, is_holiday_soon, holiday_label, fleet_available, fleet_available_2, fleet_available_3, total_parcel_weight, avg_parcel_weight, avg_parcel_volume_size, and surge_level.",
+    "cited_sentence": "PostalFlow is trained on a tabular dataset with columns date, year, month, day, parcel_count, day_of_week, is_weekend, is_holiday, is_holiday_soon, holiday_label, fleet_available, fleet_available_2, fleet_available_3, total_parcel_weight, avg_parcel_weight, avg_parcel_volume_size, and surge_level (Kim, 2021).",
+    "paragraph_index": 25,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.6250104308128357,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "These features encode both temporal and operational properties of parcel deliveries and are important to accurately model delivery surges.",
+    "cited_sentence": "These features encode both temporal and operational properties of parcel deliveries and are important to accurately model delivery surges (Kim, 2021).",
+    "paragraph_index": 25,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.6038501262664795,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "Predictions are served through a custom ParcelPredictor class, which generates new rows of data for future periods and passes them through the trained preprocessing pipeline before classification.",
+    "cited_sentence": "Predictions are served through a custom ParcelPredictor class, which generates new rows of data for future periods and passes them through the trained preprocessing pipeline before classification (Kim, 2021).",
+    "paragraph_index": 29,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5279619693756104,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "Although Prophet is referenced conceptually as the forecasting component, the actual implementation of time-series forecasting occurs within the ParcelPredictor module, which prepares synthetic future data for surge level classification.",
+    "cited_sentence": "Although Prophet is referenced conceptually as the forecasting component, the actual implementation of time-series forecasting occurs within the ParcelPredictor module, which prepares synthetic future data for surge level classification (Poljičak, 2024).",
+    "paragraph_index": 29,
+    "citation": "(Poljičak, 2024)",
+    "confidence": 0.5413400530815125,
+    "paper_id": "2e340a6d6171fcad6563e47774277275de8631b7",
+    "paper_title": "Determinants of the trend in parcel volumes in Croatia"
+  },
+  {
+    "original_sentence": "PostalFlow design begins with a robust preprocessing pipeline that ensures the dataset is cleaned, transformed, and formatted in a uniform manner for training and inference.",
+    "cited_sentence": "PostalFlow design begins with a robust preprocessing pipeline that ensures the dataset is cleaned, transformed, and formatted in a uniform manner for training and inference (Kim, 2021).",
+    "paragraph_index": 31,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5395522713661194,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "The final optimized model is then used to predict the test set, and accuracy is provided eventually.",
+    "cited_sentence": "The final optimized model is then used to predict the test set, and accuracy is provided eventually (Zhou, 2023).",
+    "paragraph_index": 43,
+    "citation": "(Zhou, 2023)",
+    "confidence": 0.6114866137504578,
+    "paper_id": "480fdf1698581ce68c11b577805d8dffa2b266e5",
+    "paper_title": "Heat Load Forecasting of Marine Diesel Engine Based on Long Short-Term Memory Network"
+  },
+  {
+    "original_sentence": "The best model predicts test data labels, and the accuracy score is printed.",
+    "cited_sentence": "The best model predicts test data labels, and the accuracy score is printed (Zhou, 2023).",
+    "paragraph_index": 45,
+    "citation": "(Zhou, 2023)",
+    "confidence": 0.5935317277908325,
+    "paper_id": "480fdf1698581ce68c11b577805d8dffa2b266e5",
+    "paper_title": "Heat Load Forecasting of Marine Diesel Engine Based on Long Short-Term Memory Network"
+  },
+  {
+    "original_sentence": "This transformed information is fed into the trained ensemble classifier for predicting surge levels over the next few days.",
+    "cited_sentence": "This transformed information is fed into the trained ensemble classifier for predicting surge levels over the next few days (Dinápolis, 2023).",
+    "paragraph_index": 53,
+    "citation": "(Dinápolis, 2023)",
+    "confidence": 0.573269248008728,
+    "paper_id": "7f0a9eb8ece34ba2e1be000c2b9421c6402253be",
+    "paper_title": "Improving the short‑range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation"
+  },
+  {
+    "original_sentence": "The process is basically a bridge between classification and time-series forecasting and enables PostalFlow to make informed, forward-looking decisions on the surge level prediction.",
+    "cited_sentence": "The process is basically a bridge between classification and time-series forecasting and enables PostalFlow to make informed, forward-looking decisions on the surge level prediction (Kim, 2021).",
+    "paragraph_index": 53,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5601917505264282,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "PostalFlow offers Emirates Post a robust AI-driven solution to proactively control delivery spikes by leveraging machine learning classification and time series forecasting.",
+    "cited_sentence": "PostalFlow offers Emirates Post a robust AI-driven solution to proactively control delivery spikes by leveraging machine learning classification and time series forecasting (Kim, 2021).",
+    "paragraph_index": 58,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5788313746452332,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "Leveraging historical parcel volume patterns and operation statistics, the system accurately detects demand spikes at four varying tiers of No Surge, Mild Surge, Low Surge, and High Surge.",
+    "cited_sentence": "Leveraging historical parcel volume patterns and operation statistics, the system accurately detects demand spikes at four varying tiers of No Surge, Mild Surge, Low Surge, and High Surge (Poljičak, 2024).",
+    "paragraph_index": 58,
+    "citation": "(Poljičak, 2024)",
+    "confidence": 0.5751768350601196,
+    "paper_id": "2e340a6d6171fcad6563e47774277275de8631b7",
+    "paper_title": "Determinants of the trend in parcel volumes in Croatia"
+  },
+  {
+    "original_sentence": "Prophets-based time series forecasting integration allows PostalFlow to generate future demand projections, bridging the gap between historic patterns and real logistics planning.",
+    "cited_sentence": "Prophets-based time series forecasting integration allows PostalFlow to generate future demand projections, bridging the gap between historic patterns and real logistics planning (Kim, 2021).",
+    "paragraph_index": 58,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.6312124729156494,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  },
+  {
+    "original_sentence": "While the system evolves from reactive to predictive logistics management, it enhances business efficiency, reduces costs, and achieves greater customer satisfaction.",
+    "cited_sentence": "While the system evolves from reactive to predictive logistics management, it enhances business efficiency, reduces costs, and achieves greater customer satisfaction (Wang, 2023).",
+    "paragraph_index": 59,
+    "citation": "(Wang, 2023)",
+    "confidence": 0.5407045483589172,
+    "paper_id": "f410d35cece2e6b3b966b39fc035b2f7863dcd2d",
+    "paper_title": "Emergency Parcel Dispatching and Structure Optimization of E-Commerce Logistics Network Based on CCNSGA-II"
+  },
+  {
+    "original_sentence": "Hourly demand prediction, more comprehensive ensemble learning, and real-time adaptive modeling are possible future enhancements to further refine surge prediction accuracy.",
+    "cited_sentence": "Hourly demand prediction, more comprehensive ensemble learning, and real-time adaptive modeling are possible future enhancements to further refine surge prediction accuracy (Dinápolis, 2023).",
+    "paragraph_index": 59,
+    "citation": "(Dinápolis, 2023)",
+    "confidence": 0.5302084684371948,
+    "paper_id": "7f0a9eb8ece34ba2e1be000c2b9421c6402253be",
+    "paper_title": "Improving the short‑range forecast of storm surges in the southwestern Atlantic continental shelf using 4DEnSRF data assimilation"
+  },
+  {
+    "original_sentence": "Ultimately, PostalFlow positions Emirates Post at the forefront of AI-automated logistics, turning uncertain delivery requirements into actionable data-supported opportunities.",
+    "cited_sentence": "Ultimately, PostalFlow positions Emirates Post at the forefront of AI-automated logistics, turning uncertain delivery requirements into actionable data-supported opportunities (Kim, 2021).",
+    "paragraph_index": 59,
+    "citation": "(Kim, 2021)",
+    "confidence": 0.5158237814903259,
+    "paper_id": "5a5fca757f3fe10c851bbb6adc767fa20906d527",
+    "paper_title": "Feature Engineering-based Short-Term Prediction Model for Postal Parcel Logistics"
+  }
+]
