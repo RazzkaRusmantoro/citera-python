@@ -6,7 +6,7 @@ import tempfile
 import os
 
 # Initialize KeyBERT model
-kw_model = KeyBERT('all-MiniLM-L3-v2')
+kw_model = KeyBERT('paraphrase-MiniLM-L3-v2')
 
 keyword_extraction_bp = Blueprint('keyword_extraction', __name__)
 

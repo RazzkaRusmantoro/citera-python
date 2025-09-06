@@ -14,8 +14,8 @@ rephrase_bp = Blueprint('rephrase', __name__)
 
 # Initialize models once
 nlp = spacy.load("en_core_web_sm")
-kw_model = KeyBERT('all-MiniLM-L3-v2')
-sbert_model = SentenceTransformer('all-MiniLM-L3-v2')
+kw_model = KeyBERT('paraphrase-MiniLM-L3-v2')
+sbert_model = SentenceTransformer('paraphrase-MiniLM-L3-v2')
 # Load environment variables
 env_path = Path(__file__).resolve().parents[3] / '.env.local'
 load_dotenv(dotenv_path=env_path)
